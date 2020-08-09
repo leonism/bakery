@@ -1,0 +1,10 @@
+url: ""
+show_drafts: true
+
+exclude: ["_app",
+          "Gemfile",
+          "Gemfile.lock",
+          "gulpfile.js",
+          "node_modules",
+          "package.json",
+          "CNAME"] 
